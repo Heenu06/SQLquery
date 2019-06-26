@@ -5,3 +5,8 @@ INNER JOIN
 
 The INNER JOIN keyword selects records that have matching values in both tables.
 
+LEFT JOIN
+
+The LEFT JOIN keyword selects all records present in left table and matching records of right table.
+
+
